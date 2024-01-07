@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationBroadcastReceiver2</string>
+    <string name="broadcast_d_intents">Intent</string>
+    <string name="broadcaster">Broadcaster</string>
+</resources>

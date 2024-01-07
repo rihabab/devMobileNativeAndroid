@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApplicationService</string>
+    <string name="TexteExplicatif">Your explanatory text here</string>
+    <string name="demarrer_service">Start Service</string>
+    <string name="arreter_service">Stop Service</string>
+
+</resources>

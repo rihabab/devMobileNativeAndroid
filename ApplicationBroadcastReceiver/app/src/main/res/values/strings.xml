@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="broadcast_d_intents">broadcast</string>
+    <string name="broadcaster">broadcast</string>
+</resources>
